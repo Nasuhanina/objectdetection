@@ -1,1 +1,3 @@
 # objectdetection
+
+testgpu -- local folder
